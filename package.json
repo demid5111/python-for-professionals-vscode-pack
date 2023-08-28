@@ -3,6 +3,8 @@
   "displayName": "Python for Professionals",
   "description": "",
   "version": "0.0.1",
+  "publisher": "aziri-python",
+  "repository": "https://github.com/demid5111/python-for-professionals-vscode-pack",
   "engines": {
     "vscode": "^1.81.0"
   },
